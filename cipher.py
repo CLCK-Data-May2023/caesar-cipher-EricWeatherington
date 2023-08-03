@@ -15,4 +15,4 @@ for i in user_sentence:
     else:
         encoded_sentence += i
 
-print("The encrypted sentence is: ", encoded_sentence)
+print("The encrypted sentence is:", encoded_sentence)
